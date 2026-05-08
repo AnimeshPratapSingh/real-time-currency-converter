@@ -67,7 +67,7 @@ CurrencyCraft/
 # 📸 Screenshots
 
 ## 💻 Desktop View
-(https://github.com/AnimeshPratapSingh/real-time-currency-converter/blob/ed8cbfa2db3bbbb6a9449fd3b3da82e77ec1c198/Screenshot-img.png)
+![image alt](https://github.com/AnimeshPratapSingh/real-time-currency-converter/blob/main/Screenshot-img.png?raw=true)
 
 ## 📱 Mobile View
 (Add Screenshot Here)
